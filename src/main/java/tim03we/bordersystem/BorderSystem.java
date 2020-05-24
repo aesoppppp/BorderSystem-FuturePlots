@@ -44,6 +44,6 @@ public class BorderSystem extends PluginBase implements Listener {
     }
 
     private void registerCommands() {
-        new CommandHandler().registerCommand("border", new BorderCommand("border", "Run this command", "/plot border"), getConfig().getStringList("aliases").toArray(new String[0]));
+        new CommandHandler().registerCommand("벽", new BorderCommand("벽", "땅에서 벽 생성하기", "/땅 벽"), getConfig().getStringList("aliases").toArray(new String[0]));
     }
 }
