@@ -1,11 +1,11 @@
 ---
-prefix: "§eBorderSystem §7> "
+prefix: "§7§l[§b땅 도우미§7] §7§l"
 
-form.title: "§e§lPlot Borders"
+form.title: "§6§l벽 두르기 시스템"
 
-no.perms: "You do not have the necessary rights for this order."
-no.border.perm: "You do not have the necessary rights for this border."
-not.the.owner: "You are not the owner of this plot."
-not.on.plot: "You're not in your plot."
-success: "Your plot border has been successfully modified."
+no.perms: "이 행동에 대한 권한이 없습니다!"
+no.border.perm: "이 벽에 대한 권한이 없습니다."
+not.the.owner: "당신의 이 땅의 주인이 아닙니다!"
+not.on.plot: "당신의 땅에 있지 않습니다!"
+success: "당신의 땅의 벽이 성공적으로 변경되었습니다."
 ...
